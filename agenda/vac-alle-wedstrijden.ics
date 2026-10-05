@@ -1,0 +1,712 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VAC Den Haag//Programma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VAC – alle wedstrijden
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260918-2030-2a-ses-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T183000Z
+DTEND:20260918T190000Z
+SUMMARY:VAC: SES – Wolters (1-5)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2030-2b-santos-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T183000Z
+DTEND:20260918T190000Z
+SUMMARY:VAC: Santos – Shell (1-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2030-3a-fitters-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T183000Z
+DTEND:20260918T190000Z
+SUMMARY:VAC: Fitters – Team Haguegym (1-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2030-3b-fokker-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T183000Z
+DTEND:20260918T190000Z
+SUMMARY:VAC: Fokker – Latam & Kaas FC (3-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2115-2a-ses-santos@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T191500Z
+DTEND:20260918T194500Z
+SUMMARY:VAC: SES – Santos (0-11)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2115-2b-shell-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T191500Z
+DTEND:20260918T194500Z
+SUMMARY:VAC: Shell – Wolters (5-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2115-3a-fitters-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T191500Z
+DTEND:20260918T194500Z
+SUMMARY:VAC: Fitters – Latam & Kaas FC (3-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2115-3b-fokker-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T191500Z
+DTEND:20260918T194500Z
+SUMMARY:VAC: Fokker – Team Haguegym (2-6)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2030-2a-paschalis-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Paschalis – Team Haguegym (2-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2030-2b-montessori-waalsdorp-santos@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Montessori Waalsdorp – Santos (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2030-3a-op-wilskracht-25-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Op Wilskracht '25 – SES (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2030-3b-nutsschool-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Nutsschool – Shell (1-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-2a-santos-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Santos – Team Haguegym (0-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-2b-nutsschool-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Nutsschool – SES (3-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-3a-montessori-waalsdorp-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Montessori Waalsdorp – Shell (0-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-3b-op-wilskracht-25-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Op Wilskracht '25 – Paschalis (1-5)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-2a-nutsschool-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Nutsschool – Paschalis (0-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-2b-latam-en-kaas-fc-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Latam & Kaas FC – SES (7-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-3a-fitters-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Fitters – RSD Benoordenhout (0-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-3b-fokker-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Fokker – Shell (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-2a-latam-en-kaas-fc-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Latam & Kaas FC – RSD Benoordenhout (5-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-2b-shell-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Shell – Paschalis (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-3a-fitters-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Fitters – SES (3-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-3b-fokker-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Fokker – Nutsschool (3-6)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-2a-santos-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Santos – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-2b-wolters-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Wolters – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-3a-nutsschool-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Nutsschool – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-3b-rsd-benoordenhout-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: RSD Benoordenhout – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-2a-latam-en-kaas-fc-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Latam & Kaas FC – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-2b-wolters-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Wolters – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-3a-nutsschool-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Nutsschool – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-3b-op-wilskracht-25-santos@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Op Wilskracht '25 – Santos
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-2a-santos-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Santos – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-2b-wolters-fitters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Wolters – Fitters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-3a-fokker-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Fokker – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-3b-montessori-waalsdorp-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-2a-santos-fitters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Santos – Fitters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-2b-team-haguegym-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Team Haguegym – Wolters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-3a-fokker-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Fokker – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-3b-montessori-waalsdorp-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-2a-paschalis-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Paschalis – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-2b-shell-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Shell – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-3a-fitters-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Fitters – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-3b-nutsschool-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Nutsschool – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-2a-op-wilskracht-25-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Op Wilskracht '25 – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-2b-latam-en-kaas-fc-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Latam & Kaas FC – Shell
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-3a-fitters-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Fitters – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-3b-nutsschool-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Nutsschool – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-2a-nutsschool-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Nutsschool – Wolters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-2b-santos-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Santos – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-3a-fokker-fitters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Fokker – Fitters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-3b-montessori-waalsdorp-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-2a-rsd-benoordenhout-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: RSD Benoordenhout – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-2b-santos-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: Santos – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-3a-fitters-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: Fitters – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-3b-fokker-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: Fokker – Wolters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2030-2a-santos-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T193000Z
+DTEND:20261120T200000Z
+SUMMARY:VAC: Santos – Wolters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2030-2b-team-haguegym-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T193000Z
+DTEND:20261120T200000Z
+SUMMARY:VAC: Team Haguegym – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2030-3a-fokker-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T193000Z
+DTEND:20261120T200000Z
+SUMMARY:VAC: Fokker – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2030-3b-ses-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T193000Z
+DTEND:20261120T200000Z
+SUMMARY:VAC: SES – Shell
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2115-2a-shell-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T201500Z
+DTEND:20261120T204500Z
+SUMMARY:VAC: Shell – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2115-2b-wolters-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T201500Z
+DTEND:20261120T204500Z
+SUMMARY:VAC: Wolters – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2115-3a-ses-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T201500Z
+DTEND:20261120T204500Z
+SUMMARY:VAC: SES – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-2115-3b-santos-fokker@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261120T201500Z
+DTEND:20261120T204500Z
+SUMMARY:VAC: Santos – Fokker
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 8 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-2a-latam-en-kaas-fc-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Latam & Kaas FC – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-3a-fitters-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Fitters – Shell
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-3b-montessori-waalsdorp-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-2a-montessori-waalsdorp-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-3a-fitters-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Fitters – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-3b-op-wilskracht-25-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Op Wilskracht '25 – Shell
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-2a-paschalis-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Paschalis – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-2b-wolters-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Wolters – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-3a-montessori-waalsdorp-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-3b-op-wilskracht-25-fokker@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Op Wilskracht '25 – Fokker
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-2a-rsd-benoordenhout-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: RSD Benoordenhout – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-2b-wolters-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Wolters – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-3a-montessori-waalsdorp-fokker@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – Fokker
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-3b-op-wilskracht-25-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Op Wilskracht '25 – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VAC Den Haag//Programma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VAC – Latam & Kaas FC
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260918-2030-3b-fokker-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T183000Z
+DTEND:20260918T190000Z
+SUMMARY:VAC: Fokker – Latam & Kaas FC (3-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-2115-3a-fitters-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260918T191500Z
+DTEND:20260918T194500Z
+SUMMARY:VAC: Fitters – Latam & Kaas FC (3-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 1 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-2b-latam-en-kaas-fc-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Latam & Kaas FC – SES (7-0)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-2a-latam-en-kaas-fc-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Latam & Kaas FC – RSD Benoordenhout (5-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-2a-santos-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Santos – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-2a-latam-en-kaas-fc-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Latam & Kaas FC – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-2a-paschalis-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Paschalis – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-2b-latam-en-kaas-fc-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Latam & Kaas FC – Shell
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-2a-latam-en-kaas-fc-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Latam & Kaas FC – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-2a-montessori-waalsdorp-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-2b-wolters-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Wolters – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-3b-op-wilskracht-25-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Op Wilskracht '25 – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+END:VCALENDAR

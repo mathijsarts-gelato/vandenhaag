@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VAC Den Haag//Programma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VAC – Montessori Waalsdorp
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260925-2030-2b-montessori-waalsdorp-santos@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Montessori Waalsdorp – Santos (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-3a-montessori-waalsdorp-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Montessori Waalsdorp – Shell (0-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-2b-wolters-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Wolters – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-3a-nutsschool-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Nutsschool – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-3b-montessori-waalsdorp-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-3b-montessori-waalsdorp-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-3b-montessori-waalsdorp-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-3a-fitters-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: Fitters – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-3b-montessori-waalsdorp-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-2a-montessori-waalsdorp-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-3a-montessori-waalsdorp-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-3a-montessori-waalsdorp-fokker@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Montessori Waalsdorp – Fokker
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VAC Den Haag//Programma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VAC – Paschalis
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260925-2030-2a-paschalis-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Paschalis – Team Haguegym (2-4)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-3b-op-wilskracht-25-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Op Wilskracht '25 – Paschalis (1-5)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-2a-nutsschool-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Nutsschool – Paschalis (0-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-2b-shell-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Shell – Paschalis (0-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2030-2a-santos-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T193000Z
+DTEND:20261030T200000Z
+SUMMARY:VAC: Santos – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-2115-3a-fokker-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261030T201500Z
+DTEND:20261030T204500Z
+SUMMARY:VAC: Fokker – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 5 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-2a-paschalis-latam-en-kaas-fc@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Paschalis – Latam & Kaas FC
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-3a-fitters-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Fitters – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-3b-montessori-waalsdorp-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Montessori Waalsdorp – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-2a-rsd-benoordenhout-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: RSD Benoordenhout – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2030-2a-paschalis-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T193000Z
+DTEND:20261211T200000Z
+SUMMARY:VAC: Paschalis – SES
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-2115-2b-wolters-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261211T201500Z
+DTEND:20261211T204500Z
+SUMMARY:VAC: Wolters – Paschalis
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 10 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+END:VCALENDAR

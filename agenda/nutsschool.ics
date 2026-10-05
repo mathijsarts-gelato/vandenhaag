@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VAC Den Haag//Programma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VAC – Nutsschool
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260925-2030-3b-nutsschool-shell@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T183000Z
+DTEND:20260925T190000Z
+SUMMARY:VAC: Nutsschool – Shell (1-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-2115-2b-nutsschool-ses@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20260925T191500Z
+DTEND:20260925T194500Z
+SUMMARY:VAC: Nutsschool – SES (3-1)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 2 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2030-2a-nutsschool-paschalis@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T183000Z
+DTEND:20261002T190000Z
+SUMMARY:VAC: Nutsschool – Paschalis (0-2)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-2115-3b-fokker-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261002T191500Z
+DTEND:20261002T194500Z
+SUMMARY:VAC: Fokker – Nutsschool (3-6)
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 3 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2030-3a-nutsschool-op-wilskracht-25@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T183000Z
+DTEND:20261009T190000Z
+SUMMARY:VAC: Nutsschool – Op Wilskracht '25
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-2115-3a-nutsschool-montessori-waalsdorp@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261009T191500Z
+DTEND:20261009T194500Z
+SUMMARY:VAC: Nutsschool – Montessori Waalsdorp
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 4 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2030-3b-nutsschool-rsd-benoordenhout@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T193000Z
+DTEND:20261106T200000Z
+SUMMARY:VAC: Nutsschool – RSD Benoordenhout
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-2115-3b-nutsschool-team-haguegym@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261106T201500Z
+DTEND:20261106T204500Z
+SUMMARY:VAC: Nutsschool – Team Haguegym
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 6 · veld 3b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2030-2a-nutsschool-wolters@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T193000Z
+DTEND:20261113T200000Z
+SUMMARY:VAC: Nutsschool – Wolters
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-2115-2b-santos-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261113T201500Z
+DTEND:20261113T204500Z
+SUMMARY:VAC: Santos – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 7 · veld 2b\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2030-2a-latam-en-kaas-fc-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T193000Z
+DTEND:20261127T200000Z
+SUMMARY:VAC: Latam & Kaas FC – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 2a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-2115-3a-fitters-nutsschool@vacdenhaag.nl
+DTSTAMP:20261004T084351Z
+DTSTART:20261127T201500Z
+DTEND:20261127T204500Z
+SUMMARY:VAC: Fitters – Nutsschool
+LOCATION:Sportpark De Diepput\, Van Hogenhoucklaan 37\, 2596 TA Den Haag
+DESCRIPTION:Speelronde 9 · veld 3a\nhttps://vacdenhaag.nl/competitie.html
+END:VEVENT
+END:VCALENDAR
