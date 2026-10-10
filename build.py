@@ -37,7 +37,8 @@ def norm_key(k):
 
 def parse_date(s):
     s = (s or "").strip()
-    for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%d-%m-%y", "%d/%m/%y"):
+    s = s.split(" ")[0]
+    for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%d.%m.%Y", "%d-%m-%y", "%d/%m/%y"):
         try:
             return dt.datetime.strptime(s, fmt).date()
         except ValueError:
@@ -514,6 +515,11 @@ def ics(name, ms):
 # ---------------------------------------------------------------- build
 def main():
     matches, problems = load_matches()
+    if len(matches) < 10 or len(problems) > len(matches):
+        # Veiligheidsklep: liever de vorige versie online laten dan een lege site publiceren.
+        for p in problems[:20]:
+            print("FOUT:", p)
+        raise SystemExit(f"Gestopt: maar {len(matches)} wedstrijden gelezen en {len(problems)} problemen. Controleer het Google Sheet (kolomkoppen en datums).")
     teams = sorted({m["t1"] for m in matches} | {m["t2"] for m in matches}, key=str.lower)
     order = standings([m for m in matches if m["part"] == "Deel 1"], teams)
     if os.path.exists(DIST):
