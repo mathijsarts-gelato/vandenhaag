@@ -1,0 +1,79 @@
+Deel,Ronde,Datum,Aftrap,Veld,Team 1,Team 2,Doelpunten team 1,Doelpunten team 2
+Deel 1,1,2026-09-18,20:30,3a,Fitters,Team Haguegym,1,4
+Deel 1,1,2026-09-18,21:15,3a,Fitters,Latam & Kaas FC,3,0
+Deel 1,1,2026-09-18,20:30,3b,Fokker,Latam & Kaas FC,3,0
+Deel 1,1,2026-09-18,21:15,3b,Fokker,Team Haguegym,2,6
+Deel 1,1,2026-09-18,20:30,2a,SES,Wolters,1,5
+Deel 1,1,2026-09-18,21:15,2a,SES,Santos,0,11
+Deel 1,1,2026-09-18,20:30,2b,Santos,Shell,1,2
+Deel 1,1,2026-09-18,21:15,2b,Shell,Wolters,5,2
+Deel 1,2,2026-09-25,20:30,3a,Op Wilskracht '25,SES,0,1
+Deel 1,2,2026-09-25,21:15,3a,Montessori Waalsdorp,Shell,0,4
+Deel 1,2,2026-09-25,20:30,3b,Nutsschool,Shell,1,2
+Deel 1,2,2026-09-25,21:15,3b,Op Wilskracht '25,Paschalis,1,5
+Deel 1,2,2026-09-25,20:30,2a,Paschalis,Team Haguegym,2,4
+Deel 1,2,2026-09-25,21:15,2a,Santos,Team Haguegym,0,0
+Deel 1,2,2026-09-25,20:30,2b,Montessori Waalsdorp,Santos,0,1
+Deel 1,2,2026-09-25,21:15,2b,Nutsschool,SES,3,1
+Deel 1,3,2026-10-02,20:30,3a,Fitters,RSD Benoordenhout,0,4
+Deel 1,3,2026-10-02,21:15,3a,Fitters,SES,3,1
+Deel 1,3,2026-10-02,20:30,3b,Fokker,Shell,0,1
+Deel 1,3,2026-10-02,21:15,3b,Fokker,Nutsschool,3,6
+Deel 1,3,2026-10-02,20:30,2a,Nutsschool,Paschalis,0,2
+Deel 1,3,2026-10-02,21:15,2a,Latam & Kaas FC,RSD Benoordenhout,5,2
+Deel 1,3,2026-10-02,20:30,2b,Latam & Kaas FC,SES,7,0
+Deel 1,3,2026-10-02,21:15,2b,Shell,Paschalis,0,1
+Deel 1,4,2026-10-09,20:30,3a,Nutsschool,Op Wilskracht '25,,
+Deel 1,4,2026-10-09,21:15,3a,Nutsschool,Montessori Waalsdorp,,
+Deel 1,4,2026-10-09,20:30,3b,RSD Benoordenhout,Team Haguegym,,
+Deel 1,4,2026-10-09,21:15,3b,Op Wilskracht '25,Santos,,
+Deel 1,4,2026-10-09,20:30,2a,Santos,Latam & Kaas FC,,
+Deel 1,4,2026-10-09,21:15,2a,Latam & Kaas FC,Team Haguegym,,
+Deel 1,4,2026-10-09,20:30,2b,Wolters,Montessori Waalsdorp,,
+Deel 1,4,2026-10-09,21:15,2b,Wolters,RSD Benoordenhout,,
+Deel 1,5,2026-10-30,20:30,3a,Fokker,SES,,
+Deel 1,5,2026-10-30,21:15,3a,Fokker,Paschalis,,
+Deel 1,5,2026-10-30,20:30,3b,Montessori Waalsdorp,Team Haguegym,,
+Deel 1,5,2026-10-30,21:15,3b,Montessori Waalsdorp,SES,,
+Deel 1,5,2026-10-30,20:30,2a,Santos,Paschalis,,
+Deel 1,5,2026-10-30,21:15,2a,Santos,Fitters,,
+Deel 1,5,2026-10-30,20:30,2b,Wolters,Fitters,,
+Deel 1,5,2026-10-30,21:15,2b,Team Haguegym,Wolters,,
+Deel 1,6,2026-11-06,20:30,3a,Fitters,Op Wilskracht '25,,
+Deel 1,6,2026-11-06,21:15,3a,Fitters,Paschalis,,
+Deel 1,6,2026-11-06,20:30,3b,Nutsschool,RSD Benoordenhout,,
+Deel 1,6,2026-11-06,21:15,3b,Nutsschool,Team Haguegym,,
+Deel 1,6,2026-11-06,20:30,2a,Paschalis,Latam & Kaas FC,,
+Deel 1,6,2026-11-06,21:15,2a,Op Wilskracht '25,RSD Benoordenhout,,
+Deel 1,6,2026-11-06,20:30,2b,Shell,Team Haguegym,,
+Deel 1,6,2026-11-06,21:15,2b,Latam & Kaas FC,Shell,,
+Deel 1,7,2026-11-13,20:30,3a,Fokker,Fitters,,
+Deel 1,7,2026-11-13,21:15,3a,Fitters,Montessori Waalsdorp,,
+Deel 1,7,2026-11-13,20:30,3b,Montessori Waalsdorp,Paschalis,,
+Deel 1,7,2026-11-13,21:15,3b,Fokker,Wolters,,
+Deel 1,7,2026-11-13,20:30,2a,Nutsschool,Wolters,,
+Deel 1,7,2026-11-13,21:15,2a,RSD Benoordenhout,Paschalis,,
+Deel 1,7,2026-11-13,20:30,2b,Santos,RSD Benoordenhout,,
+Deel 1,7,2026-11-13,21:15,2b,Santos,Nutsschool,,
+Deel 1,8,2026-11-20,20:30,3a,Fokker,RSD Benoordenhout,,
+Deel 1,8,2026-11-20,21:15,3a,SES,Team Haguegym,,
+Deel 1,8,2026-11-20,20:30,3b,SES,Shell,,
+Deel 1,8,2026-11-20,21:15,3b,Santos,Fokker,,
+Deel 1,8,2026-11-20,20:30,2a,Santos,Wolters,,
+Deel 1,8,2026-11-20,21:15,2a,Shell,RSD Benoordenhout,,
+Deel 1,8,2026-11-20,20:30,2b,Team Haguegym,Op Wilskracht '25,,
+Deel 1,8,2026-11-20,21:15,2b,Wolters,Op Wilskracht '25,,
+Deel 1,9,2026-11-27,20:30,3a,Fitters,Shell,,
+Deel 1,9,2026-11-27,21:15,3a,Fitters,Nutsschool,,
+Deel 1,9,2026-11-27,20:30,3b,Montessori Waalsdorp,Op Wilskracht '25,,
+Deel 1,9,2026-11-27,21:15,3b,Op Wilskracht '25,Shell,,
+Deel 1,9,2026-11-27,20:30,2a,Latam & Kaas FC,Nutsschool,,
+Deel 1,9,2026-11-27,21:15,2a,Montessori Waalsdorp,Latam & Kaas FC,,
+Deel 1,10,2026-12-11,20:30,3a,Montessori Waalsdorp,RSD Benoordenhout,,
+Deel 1,10,2026-12-11,21:15,3a,Montessori Waalsdorp,Fokker,,
+Deel 1,10,2026-12-11,20:30,3b,Op Wilskracht '25,Fokker,,
+Deel 1,10,2026-12-11,21:15,3b,Op Wilskracht '25,Latam & Kaas FC,,
+Deel 1,10,2026-12-11,20:30,2a,Paschalis,SES,,
+Deel 1,10,2026-12-11,21:15,2a,RSD Benoordenhout,SES,,
+Deel 1,10,2026-12-11,20:30,2b,Wolters,Latam & Kaas FC,,
+Deel 1,10,2026-12-11,21:15,2b,Wolters,Paschalis,,
